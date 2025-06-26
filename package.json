@@ -1,0 +1,19 @@
+{
+  "name": "next-pruebilla",
+  "version": "1.0.0",
+  "description": "Prueba de Next",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hola"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lightningH19/Next-pruebilla.git"
+  },
+  "author": "RayoH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lightningH19/Next-pruebilla/issues"
+  },
+  "homepage": "https://github.com/lightningH19/Next-pruebilla#readme"
+}
